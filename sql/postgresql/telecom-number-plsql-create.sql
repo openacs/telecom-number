@@ -4,7 +4,6 @@
 -- @creation-date 27 February 2003
 -- @cvs-id $Id$
 
-/*
 create function inline_0 () 
 returns integer as '  
 begin 
@@ -27,8 +26,6 @@ end;' language 'plpgsql';
 select inline_0 (); 
 
 drop function inline_0 ();
-
-*/
 
 ------ start of oacs new proc
 create or replace function telecom_number__new ( varchar,varchar,varchar,integer,varchar,
