@@ -26,6 +26,7 @@ drop function inline_0();
 --drop table
 drop table telecom_numbers;
 drop table phone_types;
+drop view telecom_number_vw;
 
 --drop attributes
 select acs_attribute__drop_attribute (
