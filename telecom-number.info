@@ -13,8 +13,8 @@
         <database>postgresql</database>
     </database-support>
         <owner url="mailto:jon@mayuli.com">Jon Griffin</owner>
-        <summary>This is a mapping of HR-XML's telecom standard.</summary>
-        <vendor url="http:://www.mayuli.com">Mayuli Enterprises LLC</vendor>
+        <summary>Datamodel and UI for the HR-XML telecom standard.</summary>
+        <vendor url="http://www.mayuli.com">Mayuli Enterprises, LLC</vendor>
         <description format="text/html">This is a mapping of HR-XML's telecom standard.&lt;p&gt;
 Originally part of contacts-lite, now stand-alone to allow for  use in other packages.</description>
 
